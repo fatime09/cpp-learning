@@ -15,7 +15,7 @@ int main() {
     double r;
     cout << "r=";
     cin >> r;
-    cout << "sahr=" << d.Sahe(r) << endl;
+    cout << "sahe=" << d.Sahe(r) << endl;
     cout << "uzunluq=" << d.Uzunluq(r);
     return 0;
 }
